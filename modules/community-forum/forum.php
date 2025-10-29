@@ -10,3 +10,7 @@
     
 </body>
 </html>
+
+<?php 
+echo 'hoy';
+?>
