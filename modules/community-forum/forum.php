@@ -11,8 +11,4 @@
 </body>
 </html>
 
-<?php 
-echo 'hey';
-?>
-
 
