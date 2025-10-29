@@ -16,7 +16,3 @@ echo 'hey';
 ?>
 
 
-<?php 
-echo 'hey';
-?>
-
